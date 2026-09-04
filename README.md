@@ -1,6 +1,19 @@
-Welcome to a hands-on tutorial of distributed data parallel training, in short DDP, using augmented reality. 
-Go ahead and click on the start guide button, which will help you navigate.
+# Shoaib Mohammad Personal Homepage
 
-Alright, let's get started with hands-on DDP training. There are five steps, each describing to  you what will happen in it. At the bottom of the Guide panel, you can see the show Progress panel, which will indicate the steps you have completed so far
+A lightweight static personal website designed to work locally or on GitHub Pages.
 
-Follow as per the instructions given in the augmented guide 
+## Included Content
+
+- Profile and research summary from Shoaib's resume and Google Scholar profile.
+- Selected publications from Google Scholar.
+- Selected repositories from `github.com/Shoaib-git20`.
+- Resume PDF at `assets/Shoaib-Mohammad-Resume.pdf`.
+
+## Publish On GitHub Pages
+
+This GitHub account already has a Pages-enabled repository:
+
+- `https://github.com/Shoaib-git20/shoaib.github.io`
+- Published site target: `https://shoaib-git20.github.io/shoaib.github.io/`
+
+To publish this version, push the files in this folder to that repository's `main` branch.
